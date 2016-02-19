@@ -6568,7 +6568,7 @@ button.close {
 position: absolute;
 right: 0;
 bottom: 0;
-background:transparent url('img/poster.jpg') no-repeat 0 0; 
+background-image:url('img/poster.jpg');
 -webkit-background-size:cover; 
    -moz-background-size:cover; 
    -o-background-size:cover; 
