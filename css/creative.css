@@ -483,6 +483,7 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
    background-image: url("http://www.dronevideo3d.com/img/poster.jpg");
+    background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -547,6 +548,7 @@ body {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-shadow: 0px 0px 6px #000;
     font-style: italic;
+    font-weight: 700;
     font-size: 50px;
     line-height: 40px;
     margin-bottom: 25px;
