@@ -6572,7 +6572,7 @@ min-width: 100%;
 min-height: 100%;
 width: auto;
 z-index: -9999;
-opacity: 0.9;
+opacity: 1;
 height: auto;
 background-size: cover;
 }
