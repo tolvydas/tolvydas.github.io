@@ -482,6 +482,11 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #222;
+    background: url(img/bposter.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 .mapsas {
     width: 100%;
