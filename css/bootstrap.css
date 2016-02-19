@@ -6568,7 +6568,6 @@ button.close {
 position: absolute;
 right: 0;
 bottom: 0;
-background-image:url('img/poster.jpg');
 -webkit-background-size:cover; 
    -moz-background-size:cover; 
    -o-background-size:cover; 
@@ -6579,3 +6578,10 @@ width: auto;
 z-index: -9999;
 opacity: 0.9;
 }
+@media (max-width: 767px) {
+  .vfonas {
+    background: url('img/poster.jpg') center center / cover no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+  }
